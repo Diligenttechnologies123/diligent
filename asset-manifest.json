@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diligent/static/css/main.e6c13ad2.css",
+    "main.js": "/diligent/static/js/main.1f1410cd.js",
+    "index.html": "/diligent/index.html",
+    "main.e6c13ad2.css.map": "/diligent/static/css/main.e6c13ad2.css.map",
+    "main.1f1410cd.js.map": "/diligent/static/js/main.1f1410cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1f1410cd.js"
+  ]
+}

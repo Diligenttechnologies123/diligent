@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/diligent/static/css/main.9584f829.css",
-    "main.js": "/diligent/static/js/main.c93e89b2.js",
+    "main.js": "/diligent/static/js/main.f87fe5f9.js",
     "index.html": "/diligent/index.html",
     "main.9584f829.css.map": "/diligent/static/css/main.9584f829.css.map",
-    "main.c93e89b2.js.map": "/diligent/static/js/main.c93e89b2.js.map"
+    "main.f87fe5f9.js.map": "/diligent/static/js/main.f87fe5f9.js.map"
   },
   "entrypoints": [
     "static/css/main.9584f829.css",
-    "static/js/main.c93e89b2.js"
+    "static/js/main.f87fe5f9.js"
   ]
 }

@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import logo from "../../assets/images/diligent-logo.jpg"
 
 export const Header = () => {
   return (
@@ -6,7 +7,9 @@ export const Header = () => {
 
 <nav className="navbar navbar-expand-md">
   <div className="container-fluid">
-    <a className="navbar-brand m-4" href="#" style={{color:"yellowgreen," , fontSize:'25px'}}>Dilegent Technologies</a>
+    <div className='diligent-logo'>
+    <a className="navbar-brand m-4" href="#"><img src={logo} /></a>
+    </div>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

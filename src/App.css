@@ -7,9 +7,18 @@ header .navbar{
   background-color: #000 !important;
   height: 70px;
 }
-header .navbar-brand{
-  color: #fff;
+header .navbar-brand img{
+  width: 100%;
 }
+header .diligent-logo{
+  max-width: 180px;
+  margin: 0 auto;
+}
+header .navbar-brand{
+  max-width: 180px;
+  margin: 0 auto;
+}
+
 
 /* coming soon page css start here */
 .coming-soon{
@@ -22,4 +31,12 @@ header .navbar-brand{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.coming-soon .diligent-logo{
+  max-width: 180px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.coming-soon img{
+  width: 100%;
 }

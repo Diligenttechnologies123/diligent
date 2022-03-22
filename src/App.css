@@ -1,0 +1,25 @@
+/* header css start here */
+header {
+  background-color: #000;
+}
+
+header .navbar{
+  background-color: #000 !important;
+  height: 70px;
+}
+header .navbar-brand{
+  color: #fff;
+}
+
+/* coming soon page css start here */
+.coming-soon{
+  background-color: #000;
+  color: #fff;
+  height: 100vh;
+  width: 100%;
+  max-width: 1920px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

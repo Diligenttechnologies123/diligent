@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.39da2bd6.css",
-    "main.js": "/static/js/main.a8642d4d.js",
-    "static/media/diligent-logo.jpg": "/static/media/diligent-logo.5d37d683fa9e188b3994.jpg",
+    "main.js": "/static/js/main.db4ad5b4.js",
     "index.html": "/index.html",
     "main.39da2bd6.css.map": "/static/css/main.39da2bd6.css.map",
-    "main.a8642d4d.js.map": "/static/js/main.a8642d4d.js.map"
+    "main.db4ad5b4.js.map": "/static/js/main.db4ad5b4.js.map"
   },
   "entrypoints": [
     "static/css/main.39da2bd6.css",
-    "static/js/main.a8642d4d.js"
+    "static/js/main.db4ad5b4.js"
   ]
 }
